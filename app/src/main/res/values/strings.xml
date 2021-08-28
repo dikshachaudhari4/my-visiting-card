@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My-Visiting_Card</string>
+    <string name="hyperlink"><a href="https://dikshachaudhari4.github.io/portfolio/">www.mywebsite.com</a></string>
+    <string name="Twitter"><a href="https://twitter.com/diksha__4">Twitter</a></string>
+    <string name="LinkedIn"><a href="https://www.linkedin.com/in/diksha-chaudhari-b4020a191/">LinkedIn</a></string>
+    <string name="github"><a href="https://github.com/dikshachaudhari4">GitHub</a></string>
+</resources>
